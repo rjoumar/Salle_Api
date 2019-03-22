@@ -1,1 +1,16 @@
 language: java
+cache:
+directories:
+- "$HOME/.cache"
+- "HOME/.sonar/cache"
+
+addons:
+sonarcloud:
+organization: "rjoumar-github"
+token:
+secure: 1c03cecd7cfc86d87772327576efafda7f15fdec
+jdk:
+- oraclejdk8
+
+script:
+- sonar-scanner

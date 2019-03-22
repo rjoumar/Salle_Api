@@ -1,0 +1,52 @@
+
+Afr.norsys.sinaf.SalleApi.model.Motif#toString()Ljava/lang/String;
+__unknown_file ("1*ê
+
+1f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java	 (¾
+»
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java ($
+%0java.lang.Long"__id*5*3&
+$fr.norsys.sinaf.SalleApi.model.Motif"	
+idMotifº
+·
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java	 ($
+%1java.lang.String"__concat*
+Motif [idMotif=*
+
+%0java.lang.Long¼
+¹
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java	 (8
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, libelleMotif=Å
+Â
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java; (G
+%3java.lang.String"__id*:*8&
+$fr.norsys.sinaf.SalleApi.model.Motif"
+libelleMotifÁ
+¾
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java	 (G
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String®
+«
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java	 (M
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"‚
+f
+\C:\Users\ADMIN\WorkspaceSTS\SalleApi\src\main\java\fr\norsys\sinaf\SalleApi\model\Motif.java (N
+
+%5java.lang.StringB(&
+$fr.norsys.sinaf.SalleApi.model.Motif

@@ -1,0 +1,7 @@
+organization=rjoumar-github
+projectKey=rjoumar_Salle_Api
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.22792
+dashboardUrl=https://sonarcloud.io/dashboard?id=rjoumar_Salle_Api
+ceTaskId=AWml8pvojwiscBO3mNJm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWml8pvojwiscBO3mNJm
